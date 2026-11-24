@@ -1,6 +1,6 @@
 # Trackpad Buddy
 
-Trackpad Buddy is a macOS menu bar app that prevents accidental pointer input while you type. After every keystroke, trackpad and mouse input is suppressed for a short moment, so a stray palm brush can't move the cursor, click, or scroll in the middle of your typing. As soon as the time runs out, your pointer works normally again.
+Trackpad Buddy is a macOS menu bar app that prevents accidental pointer input while you type. After every keystroke, trackpad and mouse input is suppressed for a short time window, so a stray palm brush can’t move the cursor, click, or scroll in the middle of your typing. The moment the time expires, your pointer works normally again.
 
 ## Download
 
