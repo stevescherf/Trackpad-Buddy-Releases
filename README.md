@@ -28,3 +28,7 @@ Left-click the menu bar icon for options; right-click it for the menu. Turn on *
 1. Right-click the menu bar icon and choose **Quit Trackpad Buddy**.
 2. Delete **Trackpad Buddy** from the Applications folder.
 3. Optionally, remove it from **System Settings → Privacy & Security → Accessibility** (select it and click **−**).
+
+## Tips
+
+Start with a short delay and lengthen it if you still get accidental clicks while typing. If palm brushes move your cursor rather than click, switch Suppress to All Pointer Input.
