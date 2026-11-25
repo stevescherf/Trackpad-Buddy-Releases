@@ -32,3 +32,17 @@ Left-click the menu bar icon for options; right-click it for the menu. Turn on *
 ## Tips
 
 Start with a short delay and lengthen it if you still get accidental clicks while typing. If palm brushes move your cursor rather than click, switch Suppress to All Pointer Input.
+
+## Terms of Use
+
+Copyright © 2026 Moondog Studios / anybutton.io. All rights reserved.
+
+Trackpad Buddy is free to download and use on any number of Macs, for personal or commercial purposes. You may share the unmodified download. You may not sell it, bundle it with other products, or distribute modified copies.
+
+**Use at your own risk.** Trackpad Buddy temporarily blocks trackpad and mouse input while you type. You are responsible for deciding whether it is suitable for your needs. If it ever interferes with your use of your Mac, quit it from the menu bar or turn off its Accessibility access in System Settings.
+
+**Privacy.** Trackpad Buddy notices *that* a key was pressed, but does not record which keys, and does not collect, store, or transmit any personal data. It makes no network connections.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By installing or using Trackpad Buddy you agree to these terms.
